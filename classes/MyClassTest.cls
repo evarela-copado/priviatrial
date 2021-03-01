@@ -8,5 +8,6 @@ public class MyClassTest {
         MyClass m = new MyClass();
         m.myclass1();
         test.stopTest();
+        System.assertEquals('Bhaskar', m.myclass1());
     }
 }
