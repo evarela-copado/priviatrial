@@ -8,6 +8,6 @@ public class MyClassTest {
         MyClass m = new MyClass();
        string name= m.myclass1();
        // test.stopTest();
-        System.assertEquals('Bhaskar', name);
+        System.assertEquals('Bhaskar', name,'message');
     }
 }
