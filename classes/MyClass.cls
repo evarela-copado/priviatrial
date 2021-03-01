@@ -1,6 +1,6 @@
 public class MyClass {
-    public void   myclass1(){
-        system.debug('Test');
+    public string    myclass1(){
+        return 'Bhaskar';
     }
     
 
